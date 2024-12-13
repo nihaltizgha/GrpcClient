@@ -1,0 +1,1 @@
+ C:\\Uni\\GRPCclient-main\\GRPCclient-main\\.dart_tool\\flutter_build\\cf0ddad4ef1f9775fb8709b546e8d302\\native_assets.yaml: 
